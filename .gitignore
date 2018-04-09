@@ -1,0 +1,16 @@
+# node
+node_modules
+*.env
+
+# docker volumes
+
+data
+
+# temp files
+
+~$*
+.DS_Store
+
+# log files
+
+*.log
